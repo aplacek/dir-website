@@ -125,7 +125,7 @@ nav a:hover {
 }
 
 .startingText {
-    max-width: 50%;
+    max-width: 55%;
     height: auto;
     padding: 20px;
 
@@ -139,9 +139,9 @@ nav a:hover {
 }
 
 .startingText h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: 100;
-    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
     margin: 0;
 }
 
